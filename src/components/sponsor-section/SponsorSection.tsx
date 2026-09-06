@@ -8,7 +8,7 @@ const sponsors = [
   { name: "Mastra", src: "/sponsors/mastra_logo.png" },
   { name: "LIC", src: "/sponsors/lic.png" },
   { name: "algo-university", src: "/sponsors/algo-university.png" },
-
+  { name: "Devfolio", src: "/sponsors/devfolio.png" },
 ];
 
 export function SponsorSection() {
