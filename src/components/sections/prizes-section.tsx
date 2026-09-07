@@ -97,7 +97,7 @@ export function PrizesSection() {
               {prize.rewards.length > 0 && (
                 <ul>
                   {prize.rewards.map((reward) => (
-                    <li className="text-lg" key={reward}>{reward}</li>
+                    <li className="text-sm" key={reward}>{reward}</li>
                   ))}
                 </ul>
               )}
