@@ -9,6 +9,7 @@ const prizeCards = [
     award:
       "A monetary prize of Rs. 50,000 and 2.5 lakhs worth of prizes will be presented to the winning team.",
     rewards: [
+      "InterviewBuddy: High-value credits to level up their interview game (AI Interview Vouchers worth ₹550)",
       "Each team member receives 3 months of ElevenLabs Pro tier ($297 value/team member, 600k credits/mo)",
     ],
   },
@@ -18,7 +19,9 @@ const prizeCards = [
     title: "Runner-Up's",
     award:
       "A monetary prize of Rs. 40,000 and 2.4 lakhs worth of prizes will be presented to the 1st runner ups.",
-    rewards: [],
+    rewards: [
+      "InterviewBuddy: Moderate credits to practice and improve (90% AI Interview Discount Voucher)",
+    ],
   },
   {
     signal: "03 // BRONZE",
@@ -26,7 +29,9 @@ const prizeCards = [
     title: "2nd Runner-Up's",
     award:
       "A monetary prize of Rs. 30,000 and 2.4 lakhs worth of prizes will be presented to the 2nd runner ups.",
-    rewards: [],
+    rewards: [
+      "InterviewBuddy: Moderate credits to practice and improve (90% AI Interview Discount Voucher)",
+    ],
   },
   {
     signal: "04 // DOMAIN",
@@ -50,6 +55,7 @@ const prizeCards = [
     title: "For All Participants!",
     award: "Every participant unlocks the following partner perks and rewards.",
     rewards: [
+      "InterviewBuddy: Discount coupons to get started (10% Discount Coupon for Expert-Driven Sessions)",
       "1 month free of ElevenLabs Creator tier (normally $22/month, 131k credits)",
     ],
   },
